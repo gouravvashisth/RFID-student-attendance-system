@@ -1,0 +1,68 @@
+.carousel-item{
+    height: 300px;
+    width: 1280px;
+    object-fit: cover;
+    
+}
+.navbar-brand{
+    font-weight: bolder;
+}
+.bg-light{
+    background-color: aquamarine !important;
+    margin: 20px;
+}
+.navbar-brand{
+    color:yellow;
+}
+#login{
+    background-color: yellow;
+}
+.list{
+    height: 300px;
+    width: 200px;
+    margin: 25px;
+   
+    
+}
+.list-group-item{
+    background-color: wheat;
+    font-style: initial;
+    font-weight: bolder;
+    
+    
+}
+.fmm{
+    height: 200px;
+    width: 600px;
+    font-weight: bolder;
+    color:blueviolet;
+    padding-top: 25px;
+   
+}
+.btn btn-primary{
+   
+}
+.gcontainer{
+display: inline-grid;
+grid-column-gap: 50px;
+grid-template-columns: 45% 70%;
+}
+.form-control{
+    background-color: cornflowerblue;
+}
+.mrr{
+    font-weight: bolder;
+    color: darkblue;
+}
+.cpp{
+    font-weight: bold;
+    background-color: aquamarine;
+    text-align: center;
+    height: 40px;
+    padding-top: 5px;
+}
+.logo{
+    height: 30px;
+    width: 30px;
+    margin-right: 20px;
+}
